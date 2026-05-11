@@ -1,3 +1,5 @@
+# Scooter Api Tests
 
-# Sprint_7
+
+API-автотесты для проверки сервиса Scooter
 
